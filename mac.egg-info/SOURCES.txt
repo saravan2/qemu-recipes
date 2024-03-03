@@ -1,0 +1,10 @@
+LICENSE
+README.md
+mac.py
+setup.py
+mac.egg-info/PKG-INFO
+mac.egg-info/SOURCES.txt
+mac.egg-info/dependency_links.txt
+mac.egg-info/entry_points.txt
+mac.egg-info/requires.txt
+mac.egg-info/top_level.txt
