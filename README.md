@@ -1,5 +1,7 @@
 # qemu-recipes
-Recipes used for running my Quick EMUlator
+Scripts to create disk, network and start a test kernel on the emulator
 
-# To install the mac tool
-## pip install .
+mac tool has capability to query vendor information from mac addresses
+and generate random mac addreses for emulators, vms.
+
+`mac` tool used on the script can be installed on local host via `pip install .`
